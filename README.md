@@ -4,4 +4,4 @@ This code allows you to recognizes faces in video streams. An application of thi
 
 ### Libraries used
 
-The face recognition is done using the `face_recognition` library in python.
+The face recognition is done using the `face_recognition` library in python. OpenCV has also been used in the code to handle images and videos.
